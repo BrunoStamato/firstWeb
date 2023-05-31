@@ -165,3 +165,6 @@ p{
   footer button{
     margin: 15px;
   }
+  .greeting{
+    text-align: center;
+  }
